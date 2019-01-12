@@ -1,0 +1,13 @@
+<span id="a">jaya@prakash</span>:<span id="b">~</span><span id="c">$</span> cd CodeNerve/<!-- laglaglaglaglaglag -->About_Us
+<span id="a">jaya@prakash</span>:<span id="b">~</span><span id="c">$</span> cat <!-- laglaglaglaglaglaglaglaglag -->jayaprakash.txt<br/><br/>
+My favorite code quote, "<span id="k">Bad programmers worry about the code. Good programmers worry about data structures and their relationships.</span>". <!-- sjkfhskjf -->
+
+Hey There! This is my portfolio.<!-- laglaglaglaglaglaglaglaglaglaglaglag --><p>You can see that, this is how your portfolio would look like.</p>
+<p>I'm proud Introvert and Short temper guy.</p> <!-- bitlagbitlagbitlagbitlagbitlagbitlag -->
+<p> I worked in web development both front end and back end. Front end - Javascript,Reactjs,jquery,Bootstrap || Back end - Java,Node Databases - Mysql,Mongodb <a href="link"> portfolio</a>.</p><!-- delaydelaydelaydelaydelaydelaydelay -->
+<p>keep changing <br><br><br> Projects : <a href="link"> Here you go</a>.</p><!-- moredelaymoredelaymoredelaymoredelaymoredelaymoredelay-->
+<p> Links to other professional profiles here: <br> <a href="https://github.com/jpelaa">github</a> <br> <a href="https://www.linkedin.com/in/jayaprakash-elavarasan-8b42a9a0/">linkedin</a> .</p>
+
+You can also give your email ID for contacting you<!-- slightdelayhere-->, feel free to send me an email at<!-- longlonglongcomment --><a href="jpelaa1991994@gmail.com">jpelaa1991994@gmail.com</a>.
+
+<p>Cheers!</p>
